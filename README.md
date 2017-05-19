@@ -18,7 +18,7 @@ Until that time comes, as per usual however,<br>
 # Q&A/FAQ:
 
 "I found content in here from other users stuff on GameBanana, You dirty modders ae stealing content!"
-The actuality is, they are being used ace placeholder assets, as we are striving for a Portal 2 art style with this mod, and others have directly ported Portal 2 content before. They will be removed & replaced later on.
+The actuality is, they are being used as placeholder assets, as we are striving for a Portal 2 art style with this mod, and others have directly ported Portal 2 content before. They will be removed & replaced later on.
 
 "Should I worry about any hardware requirements?"
 Probably not, Those of us who test it on 5-year-old graphics cards still get source's default capped fps of 300. As long as you can run Portal 1, you should be able to run this decently fine.
