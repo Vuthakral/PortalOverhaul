@@ -1,0 +1,26 @@
+"ShatteredGlass"
+{
+	"$basetexture" "Glass/glasswindow_frosted_break001b"
+	"$basetexturetransform" "scale .7 .7"
+	"%keywords" "portal"
+	"$translucent" 1
+	"$surfaceprop" "glass"
+
+	"$envmap" "env_cubemap"
+//	"$envmapmask" "glass/glasswindow_frosted_break001b_mask"
+	"$envmaptint"	"[ 5 5 5 ]"
+	"$envmapsaturation"	"1"
+
+	"$unlitfactor" 0.0
+
+	"$detail" "Glass/glasswindow_frosted_break001b"
+	"$detailscale" 1
+
+	"$nocull" 1
+	"Proxies"
+	{
+		"BreakableSurface"
+		{
+		}
+	}
+}

@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Concrete/concrete_modular_floor001a"
+	"$surfaceprop" "concrete"
+	"%keywords" "portal"
+	"$bumpmap" "concrete/4x4SSbump"
+	"$SSBump" "1"
+}

@@ -1,0 +1,9 @@
+"LightMappedGeneric"
+{
+	"$basetexture"	"concrete/concrete_modular_wall001_gradient08"
+	"$surfaceprop"	"default"
+        "%keywords" "portal"
+	"$bumpmap" "concrete/PanelSSBump"
+	"$ssbump" "1"
+}
+ 

@@ -1,0 +1,18 @@
+VertexLitGeneric
+{
+	"$baseTexture"	"models\weapons\v_models\v_portalgun/v_portalgun_glass"
+	"$bumpmap"	"models\weapons\v_models\v_portalgun\v_portalgun_normal"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.01 .01 .01]"
+
+	"$translucent"	"1"
+	"$surfaceprop"	"glass"
+	"$additive"	"1"
+
+	"$phong"		"1"
+
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[1 1.5 2]"
+
+}

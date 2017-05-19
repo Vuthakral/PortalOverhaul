@@ -1,0 +1,9 @@
+"LightMappedGeneric"
+{
+	"$basetexture"	"metal/metalwall_bts_002d"
+	"$bumpmap"	"metal/metalwall_bts_002d_normal"
+	"$surfaceprop"	"default"
+        "%keywords" "portal"
+	"%noportal" 1
+
+} 

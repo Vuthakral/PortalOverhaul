@@ -1,0 +1,40 @@
+// envmaptint_fix
+"LightmappedGeneric"
+{
+	"LightmappedGeneric_DX6"
+	{
+		"$fallbackmaterial" "nature/toxicslime002a_dx70"
+	}
+
+	"$basetexture" "nature/toxicslime_color"
+	"$bumpmap" "nature/water_noise"
+	"$surfaceprop" "slime"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ 0.30 0.29 0.28 ]"
+	"$envmapcontrast" "1"
+	"%keywords" "wasteland"
+	"%compileSlime" 1
+	
+	"$bottommaterial" "nature/toxicslime002a_beneath"
+	
+	"$fogenable" 1
+	"$fogcolor" "{29 99 39}"
+	"$fogstart" 1.00`
+	"$fogend" 100.00
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$bumpmap"
+			"animatedtextureframenumvar" "$bumpframe"
+			"animatedtextureframerate" 22.00
+		}
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" .010
+			"texturescrollangle" -35.00
+		}
+	}
+}
+
