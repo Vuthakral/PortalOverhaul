@@ -15,7 +15,7 @@ Until that time comes, as per usual however,<br>
 � You are free to download anything on this git.<br>
 � You may use anything from this git however you like, however you may not redistribute it. (again, this will change upon public releases being made.)<br>
 
-Q&A/FAQ:
+# Q&A/FAQ:
 
 "I found content in here from other users stuff on GameBanana, You dirty modders ae stealing content!"
 The actuality is, they are being used ace placeholder assets, as we are striving for a Portal 2 art style with this mod, and others have directly ported Portal 2 content before. They will be removed & replaced later on.
